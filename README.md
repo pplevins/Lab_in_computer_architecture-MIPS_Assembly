@@ -7,17 +7,22 @@
 
 # Lab exercises:
 
-# Lab 1:
+Lab 1:
     Data transfer and basic input/output.
-# Lab 2 :
+
+Lab 2 :
     A. Finding a maximum.
     B. Simple calculator.
-# Lab 3:
+
+Lab 3:
     A. Bubble sort.
     B. Identification of arithmetic and geometric series. 
-# Lab 4:
+
+Lab 4:
     Functions.
-# Lab 5:
+
+Lab 5:
     Finding of a series within a sequence of data. Logical operations.
-# Lab 6:
+
+Lab 6:
     Matrix multiplication.
