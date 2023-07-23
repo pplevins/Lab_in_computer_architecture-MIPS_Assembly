@@ -1,9 +1,9 @@
 # Lab in Computer Architecture - MIPS Assembly
 
-•	Introducing a machine language of the MIPS processor that includes:
+- Introducing a machine language of the MIPS processor that includes:
        Understanding the structure of instructions, learning different types of instructions, learning the syntax of the machine language.
-•	Introducing a simulator that allows you to run programs in the MIPS Assembly language.
-•	Writing programs in Assembly language and running and testing them using the simulator.
+- Introducing a simulator that allows you to run programs in the MIPS Assembly language.
+- Writing programs in Assembly language and running and testing them using the simulator.
 
 # Lab exercises:
 
